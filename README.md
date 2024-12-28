@@ -1,5 +1,4 @@
 <html lang="ru">
-<head>
 <meta charset="utf-8">
 <meta name="robots" content="all" />
 <title>Волк, овца и капуста | Novel Games</title>
@@ -15,5 +14,4 @@
 			data-hide-more-games-button="true"
 		></ins>
 	</div>
-</body>
 </html>
