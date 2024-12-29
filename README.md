@@ -1,7 +1,30 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V7L54Y3D2"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-6V7L54Y3D2');
+</script>
+</head>
+<body>
+<header id="commonHeader">
+	<a id="commonLogo" href="https://license.novelgames.com/" title="Novel Games Licensing">Novel Games Licensing</a>
+	<div id="commonTagLine">Games that Power Your Vision</div>
+	<nav>
+		<a id="commonButtonBrowse" href="/games/" title="Browse Our Games">Browse Our Games</a>
+		<a id="commonButtonSupport" href="/support/" title="Support">Support</a>
+		<a id="commonButtonAbout" href="/about/" title="About Us">About Us</a>
+		<a id="commonButtonShoppingCart" href="/cart/" title="Shopping Cart">Shopping Cart <span id="commonButtonShoppingCartCount">0</span></a>
+	</nav>
+</header>
 <div id="gameMain">
 	<h1>Wolf, Sheep and Cabbage</h1>
 	<div id="gameGame">
@@ -32,6 +55,15 @@
 		<a id="gameRemoveFromCartButton" title="Remove">Remove</a>
 		<a id="gameBackButton" title="Back to Browse Games">Back to Browse Games</a>
 	</div>
-	
+	<section id="gameInformation">
+		<h3>Game Information</h3>
+		<h4>Number of Levels</h4>
+		<div id="gameNoOfLevels">1</div>
+		<h4>Purchasable Power Ups</h4>
+		<div id="gamePowerUps">
+<div id="gamePowerUpTime">TIME</div><div id="gamePowerUpAnswer">ANSWER</div>		</div>
+	</section>
+</div>
+
 </body>
 </html>
