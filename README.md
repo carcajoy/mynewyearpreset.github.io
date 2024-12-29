@@ -1,53 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<title>Try Wolf, Sheep and Cabbage | Novel Games Licensing</title>
-<meta name="viewport" content="width=1043, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
-<meta name="keywords" content="try, play, details, test, trial" />
-<meta name="description" content="Try Wolf, Sheep and Cabbage" />
-<meta name="classification" content="Computer Multimedia" />
-<meta name="rating" content="Safe For Kids" />
-<meta name="copyright" content="2001 - 2024 Novel Games" />
-<meta name="robots" content="ALL" />
-<meta property="og:title" content="Try Wolf, Sheep and Cabbage | Novel Games Licensing" />
-<meta property="og:type" content="website" />
-<meta property="og:image" content="https://staticz.novelgames.com/style/default/logo.png" />
-<meta property="og:url" content="https://license.novelgames.com/games/game.php?shortName=wolf" />
-<meta property="og:site_name" content="Novel Games Licensing" />
-<meta property="og:description" content="Try Wolf, Sheep and Cabbage" />
-<meta property="fb:app_id" content="10365647342" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
-<link rel="canonical" href="https://license.novelgames.com/games/game.php?shortName=wolf"/>
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="image_src" href="https://staticz.novelgames.com/style/default/logo.png" />
-<link rel="stylesheet" href="https://staticz.novelgames.com/style/license/common.4.css" type="text/css" />
-<link rel="stylesheet" href="https://staticz.novelgames.com/style/license/game.2.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="Novel Games - Preserving Games through Digitization" href="https://www.novelgames.com/rss/" />
-<script type="text/JavaScript" src="/javascript/common.js" defer></script>
-<script type="text/JavaScript" src="/javascript/game.js" defer></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V7L54Y3D2"></script>
-<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
 
-	gtag('config', 'G-6V7L54Y3D2');
-</script>
-</head>
-<body>
-<header id="commonHeader">
-	<a id="commonLogo" href="https://license.novelgames.com/" title="Novel Games Licensing">Novel Games Licensing</a>
-	<div id="commonTagLine">Games that Power Your Vision</div>
-	<nav>
-		<a id="commonButtonBrowse" href="/games/" title="Browse Our Games">Browse Our Games</a>
-		<a id="commonButtonSupport" href="/support/" title="Support">Support</a>
-		<a id="commonButtonAbout" href="/about/" title="About Us">About Us</a>
-		<a id="commonButtonShoppingCart" href="/cart/" title="Shopping Cart">Shopping Cart <span id="commonButtonShoppingCartCount">0</span></a>
-	</nav>
-</header>
 <div id="gameMain">
 	<h1>Wolf, Sheep and Cabbage</h1>
 	<div id="gameGame">
@@ -78,24 +32,6 @@
 		<a id="gameRemoveFromCartButton" title="Remove">Remove</a>
 		<a id="gameBackButton" title="Back to Browse Games">Back to Browse Games</a>
 	</div>
-	<section id="gameInformation">
-		<h3>Game Information</h3>
-		<h4>Number of Levels</h4>
-		<div id="gameNoOfLevels">1</div>
-		<h4>Purchasable Power Ups</h4>
-		<div id="gamePowerUps">
-<div id="gamePowerUpTime">TIME</div><div id="gamePowerUpAnswer">ANSWER</div>		</div>
-	</section>
-</div>
-<footer id="commonFooter">
-	<nav id="commonFooterLinks">
-		<a href="https://license.novelgames.com/contact/">Contact Us</a>
-		<a href="https://license.novelgames.com/testimonials/">Testimonials</a>
-		<a href="https://license.novelgames.com/technology/">Technology</a>
-		<a href="https://license.novelgames.com/sitemap/">Site Map</a>
-	</nav>
-	<div id="commonFooterCopyrightText">Copyright &copy; 2014 - 2024 Novel Games Limited. All Rights Reserved.</div>
-	<div id="commonFooterTrademarkText">Trademarks mentioned are the properties of their respective owners.</div>
-</footer>
+	
 </body>
 </html>
